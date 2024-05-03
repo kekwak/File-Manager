@@ -1,5 +1,5 @@
-from misc.utils import FileManager, process_command
-from misc.config import path, banner
+from utils.utils import FileManager, process_command
+from utils.config import path, banner
 
 
 def file_manager_cli(fm):
